@@ -1,0 +1,21 @@
+{
+  "name": "cblas",
+  "version-semver": "3.8.0",
+  "port-version": 0,
+  "description": "CBLAS — C bindings for BLAS",
+  "homepage": "http://www.netlib.org/blas/",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    },
+    {
+      "name": "vcpkg-gfortran",
+      "platform": "windows"
+    },
+    {
+      "name": "lapack-reference",
+      "default-features": false
+    }
+  ]
+}
