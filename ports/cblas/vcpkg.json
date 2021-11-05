@@ -1,7 +1,7 @@
 {
   "name": "cblas",
   "version-semver": "3.8.0",
-  "port-version": 0,
+  "port-version": 1,
   "description": "CBLAS — C bindings for BLAS",
   "homepage": "http://www.netlib.org/blas/",
   "dependencies": [
