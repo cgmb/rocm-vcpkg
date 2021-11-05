@@ -1,0 +1,14 @@
+{
+  "name": "rocm-cmake",
+  "version-semver": "0.6.0",
+  "port-version": 0,
+  "description": "CMake modules for ROCm libraries",
+  "homepage": "https://github.com/RadeonOpenCompute/rocm-cmake",
+  "documentation": "https://radeonopencompute.github.io/rocm-cmake/doc/html/",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
