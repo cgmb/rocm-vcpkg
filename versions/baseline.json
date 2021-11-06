@@ -4,6 +4,10 @@
       "baseline": "3.8.0",
       "port-version": 1
     },
+    "lapack-reference": {
+      "baseline": "3.8.0",
+      "port-version": 7
+    },
     "rocm-cmake": {
       "baseline": "0.6.0",
       "port-version": 0
